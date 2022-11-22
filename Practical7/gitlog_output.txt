@@ -1,0 +1,140 @@
+commit 8119ddb75043daa831a15fa935bb48cf57a23762
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Tue Nov 22 01:33:45 2022 +0000
+
+    This is Week 7 readme file
+
+commit 890782a23534e42f823165a9ccfede8cb77fe1f4
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Tue Nov 22 01:28:41 2022 +0000
+
+    This is week 7 code
+
+commit 68f3c8d8911786ef10086e79c2e260029f9ca045
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Tue Nov 22 00:48:02 2022 +0000
+
+    This is week 6 log file
+
+commit 9a59ea261fb4ec9303de4cbc826256bea5178813
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Tue Nov 22 00:44:43 2022 +0000
+
+    This is week 6 readme file
+
+commit 7b179bcb434a7fce9041289554e61bc1f24a9e1a
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Tue Nov 22 00:29:23 2022 +0000
+
+    This is code for week 6
+
+commit 8ab2bf2a57e9fb521b4db64f846298675125d5c0
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Mon Nov 21 23:50:12 2022 +0000
+
+    This is week 5 log file
+
+commit 720f3c57e3a53407c75c006f9a56b1a3820e042d
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Mon Nov 21 23:40:54 2022 +0000
+
+    This is README file for week 5
+
+commit a5e42ab0eecc2f70d558175d2f48ae8b9395aadf
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Mon Nov 21 23:30:40 2022 +0000
+
+    These are week 5 codes
+
+commit b8238bfa1a69e3e5409bfff8f97c3841d09a9d5e
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Sun Nov 20 22:56:21 2022 +0000
+
+    Log file for week 4
+
+commit 15d03ac710b3171bf8151224b551fef690e35244
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Sun Nov 20 22:53:20 2022 +0000
+
+    README for week 4
+
+commit 3e214a54875dd929e184608aae890a4f34feeaab
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Sun Nov 20 22:49:07 2022 +0000
+
+    Code for week 4
+
+commit d9ebf2ce8492b72a52a7eb7865c7e093d3cc680e
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Sun Nov 20 22:07:44 2022 +0000
+
+    Log file for week 3
+
+commit 28f3b1af6547c8c7e90c17a4184a0ca7c4da4339
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Sun Nov 20 22:02:42 2022 +0000
+
+    README file for Practical 3
+
+commit 2c5ebdb696cba47f1718e749a2a45bb7ea9e694d
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Sun Nov 20 21:57:35 2022 +0000
+
+    Codes for Practical 3
+
+commit 6270642c3f335781ede48db5135a24addf5a4cf7
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Sun Nov 20 18:34:15 2022 +0000
+
+    gitlog_output for Practical 2
+
+commit c4afadc31b8d0031f0343fa62764e14017e74d1a
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Sun Nov 20 18:15:06 2022 +0000
+
+    README file for practical 2
+
+commit 9617acc49a737d3a15bc8f6e866262b99755799d
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Sun Nov 20 18:09:21 2022 +0000
+
+    Code for Practical 2
+
+commit ecaeb5c5ecf76f635746e107dcabacdc87a21fe9
+Author: Dhiraj0107 <dhiraj0107@gmail.com>
+Date:   Sun Nov 20 16:42:33 2022 +0000
+
+    Update README file
+
+commit dc2584c935ed4720ef7c8786482c4ddd63f88504
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:14:00 2022 +0100
+
+    Update README.md
+
+commit e811d2284ca3ffb2924bab959a842bb3806b35e0
+Merge: 6a5ffb7 d2c301d
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:13:37 2022 +0100
+
+    Merge pull request #1 from buketbenek/Buket_BenekGursoy
+    
+    Update README file
+
+commit d2c301dad05f0c7ff203d4b28e1d8be3ade3c99c
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:11:21 2022 +0100
+
+    Update README file
+
+commit 6a5ffb76f12846d1b0c8cc5d62cf0716a4fda823
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:18:16 2022 +0100
+
+    Update README.md
+
+commit db2e6a8406e8f069576574b3bcdbe338a5827664
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:17:45 2022 +0100
+
+    Initial commit
